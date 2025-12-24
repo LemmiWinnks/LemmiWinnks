@@ -5,3 +5,4 @@ The evolution of a process is directed by a pattern of rules called a program. <
 People create programs to direct processes. <br>
 In effect, we conjure the spirits of the computer with our spells. <br>
 
+~ Harold Abelson and Gerald Jay Sussman
